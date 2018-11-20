@@ -32,7 +32,7 @@ function distanceFromHqInBlocks() {
 //     });
 //   });
 
-function distanceTravelledInFeet() {
+function distanceTravelledInFeet(num1, num2) {
   
 }
 
