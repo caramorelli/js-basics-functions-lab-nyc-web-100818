@@ -6,7 +6,7 @@
 //     });
 
 function distanceFromHqInBlocks(num) {
-  
+  num
 }
 
 //     it('returns a distance in blocks', function() {
