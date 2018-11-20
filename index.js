@@ -7,7 +7,7 @@
 
 function distanceFromHqInBlocks(num) {
   
-  return Math.max(42, num) -Math.min(42, num)
+  return Math.max(42, num) -Math.min(42, num);
 }
 
 //     it('returns a distance in blocks', function() {
