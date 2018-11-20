@@ -47,7 +47,8 @@ function calculatesFarePrice(start, destination) {
   } else if (num > 2000 && num < 2500) {
     return 25;
   } else {
-    let free = (num - 400)
+    let free = (num - 400);
+    
   }
 }
 
