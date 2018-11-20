@@ -41,6 +41,10 @@ function distanceTravelledInFeet(num1, num2) {
   return (Math.max(num1, num2) - Math.min(num1, num2)) * 264
 }
 
+function calculatesFarePrice(start, destination) {
+  
+}
+
 //   describe('distanceTravelledInFeet()', function() {
 //     it('returns the distance travelled in feet', function() {
 //       expect(distanceTravelledInFeet(43, 48)).to.equal(1320);
