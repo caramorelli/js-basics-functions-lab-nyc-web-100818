@@ -42,7 +42,9 @@ function distanceTravelledInFeet(num1, num2) {
 
 function calculatesFarePrice(start, destination) {
   const num = (Math.max(num1, num2) - Math.min(num1, num2)) * 264
-  if (num <= 400)
+  if (num <= 400) {
+    return 0;
+  }
   else if (num > 2500) {
     return 'cannot travel that far';
   } else if (num > 2000 && num < 2500) {
