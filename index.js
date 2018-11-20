@@ -4,16 +4,7 @@ function distanceFromHqInBlocks(num) {
   return Math.max(42, num) -Math.min(42, num);
 }
 
-//     it('returns a distance in blocks', function() {
-//       expect(distanceFromHqInBlocks(50)).to.equal(8);
-//     });
-
-//     it('calculates distances below 42nd street', function() {
-//       expect(distanceFromHqInBlocks(34)).to.equal(8);
-//     });
-//   });
-
-function distanceFromHqInFeet() {
+function distanceFromHqInFeet(num) {
   
 }
 
