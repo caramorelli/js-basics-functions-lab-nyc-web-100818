@@ -51,6 +51,6 @@ function calculatesFarePrice(start, destination) {
     return 25;
   } else {
     let remove_free = (num - 400);
-    return Math.floor(remove_free * 0.2);
+    return remove_free * 0.2;
   }
 }
