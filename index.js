@@ -44,10 +44,10 @@ function calculatesFarePrice(start, destination) {
   const num = (Math.max(num1, num2) - Math.min(num1, num2)) * 264
   if () {
     
-  } else if () {
+  } else if (num > 2000 && num < 2500) {
     
   } else {
-    return 'cannot travel that far'
+    return 'cannot travel that far';
   }
 }
 
