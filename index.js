@@ -5,6 +5,10 @@
 //       expect(distanceFromHqInBlocks(43)).to.equal(1);
 //     });
 
+function distanceFromHqInBlocks() {
+  
+}
+
 //     it('returns a distance in blocks', function() {
 //       expect(distanceFromHqInBlocks(50)).to.equal(8);
 //     });
