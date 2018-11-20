@@ -32,6 +32,10 @@ function distanceFromHqInBlocks() {
 //     });
 //   });
 
+function distanceTravelledInFeet() {
+  
+}
+
 //   describe('distanceTravelledInFeet()', function() {
 //     it('returns the distance travelled in feet', function() {
 //       expect(distanceTravelledInFeet(43, 48)).to.equal(1320);
