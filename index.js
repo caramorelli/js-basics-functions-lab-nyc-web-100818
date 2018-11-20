@@ -38,7 +38,7 @@ function distanceFromHqInFeet() {
 
 function distanceTravelledInFeet(num1, num2) {
   // 264  
-  return (num2 - num1) * 264
+  return (Math.max(num1, num2) - num1) * 264
 }
 
 //   describe('distanceTravelledInFeet()', function() {
