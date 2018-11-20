@@ -41,7 +41,14 @@ function distanceTravelledInFeet(num1, num2) {
 }
 
 function calculatesFarePrice(start, destination) {
- const num = (Math.max(num1, num2) - Math.min(num1, num2)) * 264
+  const num = (Math.max(num1, num2) - Math.min(num1, num2)) * 264
+  if () {
+    
+  } else if () {
+    
+  } else {
+    
+  }
 }
 
 
