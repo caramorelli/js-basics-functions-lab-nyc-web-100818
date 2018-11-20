@@ -5,7 +5,7 @@ function distanceFromHqInBlocks(num) {
 }
 
 function distanceFromHqInFeet(num) {
-  Math.max(42, num) -Math.min(42, num) * 256
+  return (Math.max(42, num) -Math.min(42, num)) * 256
 }
 
 //   describe('distanceFromHqInFeet()', function() {
