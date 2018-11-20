@@ -38,7 +38,7 @@ function distanceFromHqInFeet() {
 
 function distanceTravelledInFeet(num1, num2) {
   // 264  
-  return (48 - 43) * 264
+  return (num2 - num1) * 264
 }
 
 //   describe('distanceTravelledInFeet()', function() {
