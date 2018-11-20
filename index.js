@@ -5,7 +5,7 @@
 //       expect(distanceFromHqInBlocks(43)).to.equal(1);
 //     });
 
-function distanceFromHqInBlocks() {
+function distanceFromHqInBlocks(num) {
   
 }
 
