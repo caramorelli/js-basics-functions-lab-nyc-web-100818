@@ -1,12 +1,6 @@
 // Code your solution in this file!
-// describe('index.js', function() {
-//   describe('distanceFromHqInBlocks()', function() {
-//     it('returns a distance in blocks', function() {
-//       expect(distanceFromHqInBlocks(43)).to.equal(1);
-//     });
 
 function distanceFromHqInBlocks(num) {
-  
   return Math.max(42, num) -Math.min(42, num);
 }
 
